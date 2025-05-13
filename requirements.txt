@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+tensorflow
+Pillow
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+plotly
+joblib
+PyPDF2
+torch
+torchvision
