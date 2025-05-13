@@ -19,4 +19,5 @@ Given an image of handwriting, the system:
 ### 1. Clone the Repo
 
 ```bash
-
+git clone https://github.com/sappzzgithub/ScriptSense.git
+cd ScriptSense
